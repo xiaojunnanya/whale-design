@@ -5,4 +5,9 @@ export default defineConfig({
   themeConfig: {
     name: 'whaled',
   },
+  locales: [
+    { id: 'zh-CN', name: '中文' },
+    { id: 'en-US', name: 'EN' },
+  ],
+  logo:'http://www.xiaojunnan.cn/img/logo.webp'
 });

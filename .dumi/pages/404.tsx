@@ -1,8 +1,10 @@
 import React, { memo } from 'react'
 
+// 自定义404页面
+
 const index = memo(() => {
   return (
-    <div>自定义404页面</div>
+    <div>404</div>
   )
 })
 
