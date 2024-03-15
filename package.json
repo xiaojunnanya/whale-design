@@ -18,7 +18,7 @@
     "prepublishOnly": "father doctor && npm run build"
   },
   "authors": [
-    "xiaojunnan<2376974436@qq.com>"
+    "xiaojunnanya<2376974436@qq.com>"
   ],
   "license": "MIT",
   "files": [
