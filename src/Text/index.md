@@ -7,9 +7,10 @@ order: 2
 ## 组件展示
 
 ```jsx
+import React from 'react';
 import { Text } from 'whaled';
 
-export default () => <Text>123</Text>
+export default () => <Text>123</Text>;
 ```
 
 ## API
